@@ -1,9 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
 
-# Host
-Host: https://yodkwtf.com
-
-# Sitemaps
-Sitemap: https://yodkwtf.com/sitemap.xml
+Sitemap: https://nhatcoi.space/sitemap.xml
